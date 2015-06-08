@@ -3,10 +3,10 @@
 import tweepy
  
 #Aqui van nuestras claves de acceso a Twitter, obtenidas en http://dev.twitter.com
-CONSUMER_KEY = 'HcQ3clbNtGOUomFkOCcTfQ' 
-CONSUMER_SECRET = '6TPOeBC3qRo5iQbZpEZq1Ums8yvhTSgjmK0NrLvKZE'
-ACCESS_KEY = '465700537-HCNXTvVootESey32GByYN52NqvTDdOmMkmRw44ZF'
-ACCESS_SECRET = 'kdC5WuLKhwZPGV7DwKsyzMVCy8ELA11XNSIOqiMAtDzey'
+CONSUMER_KEY = '****************' 
+CONSUMER_SECRET = '*******************************'
+ACCESS_KEY = '*******-**********************************'
+ACCESS_SECRET = '**************************************'
  
 #Primero nos identificamos ante Twitter con nuestras claves
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
